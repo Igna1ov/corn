@@ -1,0 +1,339 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 428,
+      "max": [
+        9.3915510177612305,
+        4.117009162902832,
+        48.326286315917969
+      ],
+      "min": [
+        -6.2915496826171875,
+        -3.5983974933624268,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5136,
+      "componentType": 5126,
+      "count": 428,
+      "max": [
+        0.9999997615814209,
+        0.9997984766960144,
+        1
+      ],
+      "min": [
+        -0.999969482421875,
+        -0.9997984766960144,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 428,
+      "max": [
+        1,
+        1,
+        0.99960875511169434,
+        1
+      ],
+      "min": [
+        -0.9998011589050293,
+        -1,
+        -0.99934935569763184,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 564,
+      "max": [
+        427
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10272,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        3.9061527252197266,
+        0.92812919616699219,
+        35.970504760742188
+      ],
+      "min": [
+        -3.8673324584960938,
+        -1.706550121307373,
+        18.597986221313477
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11232,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        0.93445539474487305,
+        0.91841816902160645,
+        0.61781591176986694
+      ],
+      "min": [
+        -0.95042693614959717,
+        -0.91841822862625122,
+        -0.665721595287323
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6848,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        0.88921809196472168,
+        0.9110686182975769,
+        0.33028048276901245,
+        1
+      ],
+      "min": [
+        -0.88921827077865601,
+        -0.9110683798789978,
+        -0.33028021454811096,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2256,
+      "componentType": 5125,
+      "count": 96,
+      "max": [
+        79
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "drop05 (https://sketchfab.com/drop05)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/d7f4f93c3a0e433888cbffe41ac1d2bd",
+      "title": "Corn"
+    },
+    "generator": "Sketchfab-3.18.5",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2640,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12192,
+      "byteOffset": 2640,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8128,
+      "byteOffset": 14832,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 22960,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Material_55",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.12548999999999999,
+          0.33725500000000003,
+          0.14902000000000001,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.89297135959999996
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "02_-_Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.70588200000000001,
+          0.53333299999999995,
+          0.16470599999999999,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.89297135959999996
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cylinder143_Material #55_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder143_02 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TANGENT": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "ba5acfd0b56e49c684239458c4d4cbfd.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "matrix": [
+        -6.8131923769867653,
+        1.1102230246251565e-15,
+        -7.3198640447872654,
+        0,
+        -7.3198640447872654,
+        0,
+        6.8131923769867662,
+        0,
+        0,
+        9.9999999999999982,
+        2.2204460492503131e-15,
+        0,
+        -3533.6455078125,
+        140.57846069335938,
+        -385.04150390625,
+        1
+      ],
+      "name": "Cylinder143"
+    },
+    {
+      "mesh": 0,
+      "name": "Cylinder143_Material #55_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Cylinder143_02 - Default_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
